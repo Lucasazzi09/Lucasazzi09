@@ -1,5 +1,5 @@
 ## <h2>Olá, Eu sou o Lucas Azzi</h2>
-- I'm a student | Web designer and Web and Mobile Development.
+Estudando | Web Design, Desenvolvimento Web e Mobile, Front-End, Bando de dados.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-azzi-530729220/
 
